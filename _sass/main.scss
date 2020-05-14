@@ -25,10 +25,29 @@ $box-padding: 60px;
 
 .avatar {
     display: block;
-    width: 128px;
-    height: 128px;
+
+    img {
+        width: 128px;
+        height: 128px;
+        border-radius: 50%;
+    }
+}
+
+.newlogic-badge {
+    display: inline-block;
+    position: absolute;
     border-radius: 50%;
-    margin: 50px auto;
+    background-color: #FFC233;
+    padding: 16px 10px 10px;
+    margin-left: -35px;
+    margin-top: 80px;
+    width: 52px;
+    height: 52px;
+
+    img {
+        width: 48px;
+        height: auto;
+    }
 }
 
 .button.contact {
@@ -84,4 +103,76 @@ section.skillset {
         border-left: 1px solid $white-ter;
         border-right: 1px solid $white-ter;
     }
+}
+
+.company-box {
+    transition: ease-in .2s;
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 250px;
+    outline: none!important;
+    border: none!important;
+    box-shadow: none!important;
+}
+.company-box:hover {
+    background-size: 50%;
+}
+
+.company-box.newlogic {
+    background-image: url(/assets/images/companies/newlogic.png);
+    background-color: #FFC233;
+}
+
+.company-box.zenventory {
+    background-image: url(/assets/images/companies/zenventory.svg);
+    background-color: #f36e44;
+    background-size: 35%;
+}
+
+.company-box.zenventory:hover {
+    background-size: 45%;
+}
+
+.company-box.lexmark {
+    background-image: url(/assets/images/companies/lexmark.svg);
+    background-size: 45%;
+}
+
+.company-box.lexmark:hover {
+    background-size: 55%;
+}
+
+.company-box.hakoot {
+    background-image: url(/assets/images/companies/hakoot.svg);
+    background-color: #66ae5a;
+    background-size: 45%;
+}
+
+.company-box.hakoot:hover {
+    background-size: 55%;
+}
+
+
+.company-box.seriousdev {
+    background-image: url(/assets/images/companies/seriousdev.png);
+    background-size: 55%;
+}
+
+.company-box.seriousdev:hover {
+    background-size: 65%;
+}
+
+.company-box.ncr {
+    background-image: url(/assets/images/companies/ncr.png);
+    background-color: #54bc4c;
+    background-size: 45%;
+}
+
+.company-box.ncr:hover {
+    background-size: 55%;
+}
+
+.companies-info-container {
+    margin: 60px 48px;
 }

@@ -20,7 +20,13 @@
     <link rel="manifest" href="manifest.json">
 
     <meta name="theme-color" content="#a34824">
-    <meta name="Description" content="James Kenneth A. Guidaven - Personal website">
+    <meta name="Description" content="James Kenneth A. Guidaven - Full-Stack Developer">
+
+    <meta property="og:title" content="James Kenneth Guidaven - Full-Stack Developer" />
+    <meta property="og:description" content="Information about James Kenneth Guidaven professional background" />
+    <meta property="og:image" content="https://jkguidaven.github.io/assets/images/hero_ylu27k_c_scale,w_200.jpg" />
+    <meta property="og:image" content="https://jkguidaven.github.io" />
+
     <title>James Kenneth A. Guidaven</title>
     <link href="https://fonts.googleapis.com/css2?family=Overpass:wght@300;400;600;700;900&display=swap" rel="stylesheet">
     <script defer src="https://use.fontawesome.com/29e1103c35.js" rel="preconnect"></script>
@@ -32,27 +38,37 @@
         <div class="container">
           <div class="columns">
             <div class="column is-8-desktop is-offset-2-desktop">
-                <img
-                class="avatar"
-                src="assets/images/hero_ylu27k_c_scale,w_200.jpg"
-                alt="Hero Avatar">
+                <div class="avatar">
+                    <img
+                    src="assets/images/hero_ylu27k_c_scale,w_200.jpg"
+                    alt="Hero Avatar">
+                        
+                    <div class="newlogic-badge">
+                        <img
+                            src="assets/images/companies/mini-newlogic.png"
+                            alt="newlogic"
+                        />
+                    </div>
+                </div>
+
         
-              <h1 class="subtitle is-2 is-spaced">
-                Hi! I'm <strong class="has-text-weight-black">James Kenneth</strong>, nice to meet you
-              </h1>
-              <h2 class="subtitle is-4">
-                I am a passionate Software developer who enjoys building fast and high quality web
-                applications
-              </h2>
+                <h1 class="subtitle is-2 is-spaced">
+                    Hi! I'm <strong class="has-text-weight-black">James Kenneth</strong>, nice to meet you
+                </h1>
+                <h2 class="subtitle is-4">
+                    I am a passionate Software developer who enjoys building fast and high quality web
+                    applications
+                </h2>
             </div>
           </div>
         </div>
       </div>
     </section>
+
     <section class="section about has-background-primary has-text-white">
       <div class="container">
         <h2 class="subtitle is-2 has-text-centered has-text-white">
-            Full-stack Developer since 2011
+            Full-Stack Developer since 2011
         </h2>
 
         <div class="columns is-centered">
@@ -121,7 +137,7 @@
                   <p>
                     I mainly use Java-based framework when building
                     web services however I also use PHP frameworks
-                    when working on building prototypes.
+                    when building prototypes or POC.
                   </p>
 
                   <h2 class="has-text-weight-semibold has-text-primary margin-10">
@@ -145,6 +161,7 @@
                     <li>Krakend</li>
                     <li>Consul</li>
                     <li>rabbitMQ</li>
+                    <li>Docker</li>
                     <li>MySQL</li>
                   </ul>
               </div>
@@ -179,7 +196,38 @@
           </div>
         </div>
       </div>
+
+      <div class="container companies-info-container">
+        <h2 class="subtitle is-2 has-text-centered">
+            Present & Past companies I work for
+        </h2>
+
+        <div class="columns is-centered">
+          <a class="box column is-one-third margin-10 company-box newlogic"
+            href="https://newlogic.io" rel="noreferrer" target="_blank">
+          </a>
+          <a class="box column is-one-third margin-10 company-box zenventory"
+            href="https://www.zenventory.com" rel="noreferrer" target="_blank">
+          </a>
+          <a class="box column is-one-third margin-10 company-box lexmark"
+            href="https://www.lexmark.com" rel="noreferrer" target="_blank">
+          </a>
+        </div>
+
+        <div class="columns is-centered">
+            <a class="box column is-one-third margin-10 company-box hakoot"
+                href="https://hakoot.ph" rel="noreferrer" target="_blank">
+            </a>
+            <a class="box column is-one-third margin-10 company-box seriousdev"
+                href="https://seriousdevtech.com" rel="noreferrer" target="_blank">
+            </a>
+            <a class="box column is-one-third margin-10 company-box ncr"
+                href="https://www.ncr.com" rel="noreferrer" target="_blank">
+            </a>
+        </div>
+      </div>
     </section>
+  
     <footer class="footer has-text-centered has-text-white has-background-black-ter">
       <div class="container">
 
