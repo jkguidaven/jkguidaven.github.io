@@ -111,6 +111,16 @@ section.skillset {
     }
 }
 
+@media only screen and (max-width: 769px) {
+    .companies-info-container {
+        margin: 60px 10px!important;
+        .company-box {
+            margin: 0 0 20px!important;
+            min-width: 100%;
+        }
+    }
+}
+
 .company-box {
     transition: ease-in .2s;
     background-size: 40%;
