@@ -13,7 +13,7 @@ $family-sans-serif: 'Overpass', sans-serif;
 // 3. Set the derived variables
 // Use the new pink as the primary color
 $primary: #a34824;
-$primary-darker: #8f4124;
+$primary-darker: #ce6a0d;
 $box-shadow: none;
 $box-radius: 15px;
 $box-padding: 60px;
@@ -198,5 +198,12 @@ section.skillset {
 
     .subtitle {
         display: block;
+    }
+}
+
+.contact-links {
+    margin: 20px;
+    li {
+        display: inline-block!important;
     }
 }
