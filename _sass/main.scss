@@ -13,7 +13,7 @@ $family-sans-serif: 'Overpass', sans-serif;
 // 3. Set the derived variables
 // Use the new pink as the primary color
 $primary: #a34824;
-
+$primary-darker: #8f4124;
 $box-shadow: none;
 $box-radius: 15px;
 $box-padding: 60px;
@@ -120,9 +120,23 @@ section.skillset {
     outline: none!important;
     border: none!important;
     box-shadow: none!important;
+    text-align: center;
+    display: table;
+
+    .content {
+        display: none;
+        vertical-align: middle;
+    }
 }
-.company-box:hover {
-    background-size: 50%;
+.company-box:hover, .company-box:focus {
+    background-size: 100%!important;
+    background-color: $primary-darker!important;
+    background-image: none!important;
+    color: $white!important;
+
+    .content {
+        display: table-cell;
+    }
 }
 
 .company-box.newlogic {
@@ -136,17 +150,9 @@ section.skillset {
     background-size: 35%;
 }
 
-.company-box.zenventory:hover {
-    background-size: 45%;
-}
-
 .company-box.lexmark {
     background-image: url(/assets/images/companies/lexmark.svg);
     background-size: 45%;
-}
-
-.company-box.lexmark:hover {
-    background-size: 55%;
 }
 
 .company-box.hakoot {
@@ -155,28 +161,16 @@ section.skillset {
     background-size: 45%;
 }
 
-.company-box.hakoot:hover {
-    background-size: 55%;
-}
-
 
 .company-box.seriousdev {
     background-image: url(/assets/images/companies/seriousdev.png);
     background-size: 55%;
 }
 
-.company-box.seriousdev:hover {
-    background-size: 65%;
-}
-
 .company-box.ncr {
     background-image: url(/assets/images/companies/ncr.png);
     background-color: #54bc4c;
     background-size: 45%;
-}
-
-.company-box.ncr:hover {
-    background-size: 55%;
 }
 
 .companies-info-container {
