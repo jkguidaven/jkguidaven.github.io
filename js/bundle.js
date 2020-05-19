@@ -1,1 +1,1 @@
-console.log("loaded");
+"use strict";console.log("loaded");
