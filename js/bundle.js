@@ -1,1 +1,1 @@
-"use strict";console.log("loaded");
+"use strict";document.addEventListener("DOMContentLoaded",(function(){var t=Array.prototype.slice.call(document.querySelectorAll(".navbar-burger"),0);t.length>0&&t.forEach((function(t){t.addEventListener("click",(function(){var e=t.dataset.target,a=document.querySelector("#".concat(e));t.classList.toggle("is-active"),t.setAttribute("aria-expanded",!0),a.classList.toggle("is-active")}))}))}));
