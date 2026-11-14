@@ -12,7 +12,7 @@
 
 ## Experience
 
-- Current role (2022 – present): Senior Software Engineer at a global, fully remote software company. Led the build of an MCP server that connects a customer dashboard to AI assistants; built Claude Code skills and AI workflows for the team; built shared layout foundations and multi-user support; shipped self-serve support features.
+- Current role (2022 – present): Senior Software Engineer at a global, fully remote software company. Full-stack work on customer dashboards, including an MCP server and multi-user support.
 - 2019 – 2022: Senior Software Engineer. Mobile apps and serverless AWS services for an open-source digital identity toolkit.
 - 2018 – 2019: Senior Full Stack Software Engineer. Marketplace integrations (BigCommerce, WooCommerce, eBay, Amazon, ShipStation) for an inventory and order management app.
 - 2015 – 2018: Software Engineer. Primary contributor to an enterprise admin portal's architecture; introduced a Secure Development Lifecycle; added JWT to the identity service.
@@ -29,7 +29,7 @@
 
 ## Open source and side projects
 
-- [Linear Issue Enricher](https://github.com/jkguidaven/linear-issue-enricher): Claude Code plugin, built as a team tool and then open-sourced, that scores Linear issues for agent-readiness and writes agent-ready specs.
+- [Linear Issue Enricher](https://github.com/jkguidaven/linear-issue-enricher): Claude Code plugin, open source, that scores Linear issues for agent-readiness and writes agent-ready specs.
 - [HealthOS](https://jkguidaven.github.io/healthos/): local-first health and fitness app (React Native, Expo, Gemini AI, SQLite).
 - [Tessera UI](https://jkguidaven.github.io/tessera-ui/): 71 accessible Web Components for React, Vue, Angular, and plain HTML.
 - [DSA Visualizer](https://jkguidaven.github.io/dsa-visualizer): animates sorting, pathfinding, and graph algorithms.
