@@ -1,0 +1,41 @@
+# James Kenneth Guidaven
+
+> Senior Software Engineer with 15+ years across the full stack, strongest on the frontend. Works closely with product designers, turning Figma specs into fast, production-ready UIs in React, Angular, or Vue. Strong engineering fundamentals, amplified by AI. Leads projects end to end, including AI work. Fully remote from Cebu, Philippines (UTC+8).
+
+## Summary
+
+- Builds web products end to end: user interfaces, APIs, and the systems behind them.
+- Strongest: React, TypeScript, JavaScript, Claude Code, OpenAI Codex. Also shipped with PHP, MCP servers, Node.js, Java / Spring Boot, AWS, Angular, Vue, React Native.
+- AI engineering: MCP servers, agent tooling, context engineering, Claude Code, OpenAI Codex. Sets up codebases so agents produce reliable code, and a person reviews every change.
+- Engineering fundamentals: software architecture, design patterns and SOLID, web security (OAuth 2.0 / 2.1, JWT, Secure Development Lifecycle), testing across the lifecycle, data structures and algorithms.
+- 4+ years fully remote and async.
+
+## Experience
+
+- Current role (2022 – present): Senior Software Engineer at a global, fully remote software company. Led the build of an MCP server that connects a customer dashboard to AI assistants; built Claude Code skills and AI workflows for the team; built shared layout foundations and multi-user support; shipped self-serve support features.
+- 2019 – 2022: Senior Software Engineer. Mobile apps and serverless AWS services for an open-source digital identity toolkit.
+- 2018 – 2019: Senior Full Stack Software Engineer. Marketplace integrations (BigCommerce, WooCommerce, eBay, Amazon, ShipStation) for an inventory and order management app.
+- 2015 – 2018: Software Engineer. Primary contributor to an enterprise admin portal's architecture; introduced a Secure Development Lifecycle; added JWT to the identity service.
+- 2014 – 2015: Lead Software Engineer & Co-Founder of a small software company. Introduced Agile; led an ERP build and an SMS / email broadcasting platform.
+- 2011 – 2014: Software Engineer. Retail self-checkout customizations in C/C++ and developer tools that sped up debugging.
+- Education: BS Information Technology, University of Cebu. 1st place, thesis competition at the Battle of IT Schools (BITS).
+
+## Pages
+
+- [Home](https://jkguidaven.github.io/): summary of strengths, working style, selected work, and skills.
+- [About](https://jkguidaven.github.io/about/): full career story with the impact of each role, skills, and education.
+- [How I Work](https://jkguidaven.github.io/how-i-work/): engineering fundamentals, how AI is made reliable, and real examples.
+- [Work](https://jkguidaven.github.io/works/): professional work across six companies, plus open source and side projects.
+
+## Open source and side projects
+
+- [Linear Issue Enricher](https://github.com/jkguidaven/linear-issue-enricher): Claude Code plugin, built as a team tool and then open-sourced, that scores Linear issues for agent-readiness and writes agent-ready specs.
+- [HealthOS](https://jkguidaven.github.io/healthos/): local-first health and fitness app (React Native, Expo, Gemini AI, SQLite).
+- [Tessera UI](https://jkguidaven.github.io/tessera-ui/): 71 accessible Web Components for React, Vue, Angular, and plain HTML.
+- [DSA Visualizer](https://jkguidaven.github.io/dsa-visualizer): animates sorting, pathfinding, and graph algorithms.
+
+## Contact
+
+- Email: jkguidaven@gmail.com
+- LinkedIn: https://ph.linkedin.com/in/james-kenneth-guidaven-4b6699148
+- GitHub: https://github.com/jkguidaven
