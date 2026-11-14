@@ -12,7 +12,7 @@
 
 ## Experience
 
-- Current role (2022 – present): Senior Software Engineer at a global, fully remote software company. Full-stack work on customer dashboards, including an MCP server and multi-user support.
+- Current role (2022 – present): Senior Software Engineer at a global, fully remote software company. Full-stack work on customer dashboards, and tooling that helps the team work better.
 - 2019 – 2022: Senior Software Engineer. Mobile apps and serverless AWS services for an open-source digital identity toolkit.
 - 2018 – 2019: Senior Full Stack Software Engineer. Marketplace integrations (BigCommerce, WooCommerce, eBay, Amazon, ShipStation) for an inventory and order management app.
 - 2015 – 2018: Software Engineer. Primary contributor to an enterprise admin portal's architecture; introduced a Secure Development Lifecycle; added JWT to the identity service.
